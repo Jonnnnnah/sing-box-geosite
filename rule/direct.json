@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "controlplane.tailscale.com",
+        "derper-sg.jsom.top",
+        "derper-sh.jsom.top",
+        "headscale.jsom.top",
+        "log.tailscale.io",
+        "rustdesk.jsom.top",
+        "wg.jsom.top"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1688.com",
+        "20211214.xyz",
+        "hywebseo.com",
+        "hyxunpan.com",
+        "iopq.net",
+        "mingyuan.pub",
+        "taobao.com",
+        "teandy.com",
+        "tonymacx86.com"
+      ]
+    }
+  ],
+  "version": 2
+}
