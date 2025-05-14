@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.lemonsqueezy.com",
+        "api.revenuecat.com"
+      ]
+    }
+  ],
+  "version": 2
+}
