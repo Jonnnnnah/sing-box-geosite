@@ -2,29 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "amazonaws.com",
-        "anthropic.com",
-        "appstorrent.ru",
-        "claude.ai",
-        "cloudflare.com",
-        "ecothermostat.com",
-        "gist.build",
-        "google.com",
-        "imgur.com",
-        "ipip.net",
         "jsom.top",
-        "linkedin.com",
         "macked.app",
         "notion.so",
-        "olevod.tv",
+        "notionusercontent.com",
         "oracle.com",
-        "poe.com",
-        "rutracker.in",
-        "rutracker.org",
-        "sm.ms",
-        "splunkcloud.com",
-        "steamcommunity.com",
-        "tsutsu.one",
+        "unsplash.com",
         "v2ex.com"
       ]
     }
