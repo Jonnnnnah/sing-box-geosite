@@ -2,13 +2,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "jsom.top",
         "macked.app",
         "notion.so",
         "notionusercontent.com",
         "oracle.com",
         "unsplash.com",
-        "v2ex.com"
+        "v2ex.com",
+        "wagglyworld.com"
       ]
     }
   ],
